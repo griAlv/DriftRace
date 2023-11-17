@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuInicial.unity
+    guid: 04903915a4ac89041bca16d48506e2b9
+  - enabled: 1
+    path: Assets/Scenes/Controles.unity
+    guid: be2ec590554d3964fb2062e6577832c3
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: d1513b1c756d61146932f429017ec6e6
+  - enabled: 1
+    path: Assets/Scenes/VICTORIA1.unity
+    guid: 2b5da69edce67d94196a0a7130c229f3
+  - enabled: 1
+    path: Assets/Scenes/DERROTA1.unity
+    guid: c7f2e8dfde43574449666bdab5aa9f87
+  - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: b8a77f78373395344b02c6c8d8fb2e7b
+  - enabled: 1
+    path: Assets/Scenes/VICTORIA2.unity
+    guid: 23165988764952249b446de06e3d0746
+  - enabled: 1
+    path: Assets/Scenes/DERROTA2.unity
+    guid: 15bf86d86bdf63e46a1392a86c2ca7ab
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: 1866a986f55ef864ebe12fdc24363723
+  - enabled: 1
+    path: Assets/Scenes/VICTORIA3.unity
+    guid: 620eb25272b68fe48bddb2c1c4d81a8e
+  - enabled: 1
+    path: Assets/Scenes/DERROTA3.unity
+    guid: 01b3ef4ca1e81d7488964323fdaf55b8
+  - enabled: 1
+    path: Assets/Scenes/NIvel4.unity
+    guid: 1835cbeb0fa9ee841a05e9c54db2e7e8
+  - enabled: 1
+    path: Assets/Scenes/VICTORIA4.unity
+    guid: d1aeae93f8f22594ebbcbae83a8dc5b6
+  - enabled: 1
+    path: Assets/Scenes/DERROTA4.unity
+    guid: e4a123d558b446043a07cbec2fee3b8e
+  m_configObjects: {}
